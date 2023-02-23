@@ -1,11 +1,5 @@
-.main {
-	margin: auto;
-	align-items: center;
-	justify-content: center;
-	height: 100%;
-}
-
-.main .logo {
-	height: 150px;
-	width: 150px;
+.heading .logo {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 20px;
 }
